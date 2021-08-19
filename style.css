@@ -112,7 +112,8 @@ section {
   color: red;
 }
 
-.hero-form {
+.hero-form,
+.hero-cta {
   background-color: rgba(252, 225, 56, 0.9);
   padding: 20px;
   color: var(--primary-color);
